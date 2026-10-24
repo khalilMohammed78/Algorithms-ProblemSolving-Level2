@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//الجدول الضرب
 void Print_Header_Table() {
 	cout << "\n\n\n\t\tMultiplication Table From 1 To 10\n\n";
 	cout << "\t";
